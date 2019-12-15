@@ -3,7 +3,10 @@
 
 Voeg toe aan: <a href="webcal://kaiminglee.github.io/schoolkalender/achthoek20192020_nl.ics">iPhone Agenda</a>
 
-Voeg toe aan: <a href="https://calendar.google.com/calendar?cid=bnN0M3YxNm1xcnVxYjZoNTE1N2I0cHVsbzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Google Calendar</a> (niet op Android)
+Voeg toe aan: <a href="https://kaiminglee.github.io/schoolkalender/cal1.ics">Google Calendar</a> (Android)
+
+
+Voeg toe aan: <a href="https://calendar.google.com/calendar?cid=bnN0M3YxNm1xcnVxYjZoNTE1N2I0cHVsbzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Google Calendar</a> (Computer)
 
 ---
 ---
